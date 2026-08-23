@@ -108,7 +108,21 @@ export default defineConfig({
     ],
 
     search: {
-      provider: "local",
+      provider: 'local',
+      options: {
+        _render(src, env, md) {
+          const html = md.render(src, env)
+
+          if (env.frontmatter?.search === false) return ''
+
+          const title = env.frontmatter?.title
+          if (typeof title === 'string' && title.trim()) {
+            return md.render(`# ${title}`) + html
+          }
+
+          return html
+        }
+      }
     },
 
     socialLinks: [
