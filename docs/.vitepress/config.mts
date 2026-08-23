@@ -18,7 +18,7 @@ const rssOptions: RSSOptions = {
 const teekConfig = defineTeekConfig({
   teekTheme: true,
   teekHome: true,
-  pageStyle: "card",
+  pageStyle: "segment-nav",
 
   bodyBgImg: {
     imgSrc: "/images/background.webp",
