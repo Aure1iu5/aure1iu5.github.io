@@ -21,7 +21,7 @@ const teekConfig = defineTeekConfig({
 
   blogger: {
     name: "Aurelius",
-    slogan: "Study, think, and build.",
+    slogan: "Anyway the wind blows.",
     avatar: "https://github.com/Aure1iu5.png",
     shape: "circle",
   },
