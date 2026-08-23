@@ -18,12 +18,14 @@ const rssOptions: RSSOptions = {
 const teekConfig = defineTeekConfig({
   teekTheme: true,
   teekHome: true,
+  pageStyle: "card",
 
   bodyBgImg: {
     imgSrc: "/images/background.webp",
     imgOpacity: 1,
     mask: true,
     maskBg: "rgba(0, 0, 0, 0.15)",
+    bannerStyle: "part",
   },
 
   blogger: {
