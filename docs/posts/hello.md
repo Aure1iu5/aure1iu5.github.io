@@ -1,7 +1,7 @@
 ---
-title: 我的第一篇博客
+title: "我的第一篇博客"
 date: 2026-08-23
-description: Aurelius's Blog 的第一篇文章
+description: "Aurelius's Blog 的第一篇文章"
 categories:
   - 学习记录
 tags:
@@ -9,10 +9,6 @@ tags:
   - Blog
 publish: true
 ---
-
-# 我的第一篇博客
-
-欢迎来到 Aurelius's Blog。
 
 <!-- more -->
 

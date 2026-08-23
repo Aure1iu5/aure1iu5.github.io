@@ -1,5 +1,5 @@
 ---
-title: "冬野七濑"
+title: "东野七濑"
 date: 2026-08-23
 description: "Idol"
 categories:
