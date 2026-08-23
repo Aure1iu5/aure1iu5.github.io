@@ -115,3 +115,8 @@ body {
     box-shadow: none;
   }
 }
+
+/* 隐藏首页 Banner 中间的博客标题 */
+.tk-banner-content__title {
+  display: none;
+}
