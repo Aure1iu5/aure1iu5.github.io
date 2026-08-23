@@ -19,6 +19,13 @@ const teekConfig = defineTeekConfig({
   teekTheme: true,
   teekHome: true,
 
+  bodyBgImg: {
+    imgSrc: "/images/background.webb",
+    imgOpacity: 1,
+    mask: true,
+    maskBg: "rgba(0, 0, 0, 0.15)",
+  },
+
   blogger: {
     name: "Aurelius",
     slogan: "Anyway the wind blows.",
