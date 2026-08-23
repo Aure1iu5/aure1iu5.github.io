@@ -66,8 +66,8 @@ const teekConfig = defineTeekConfig({
     title: "常用链接",
     list: [
       {
-        name: "OpenAI ChatGPT",
-        avatar: "/images/friends/friend.webp",
+        name: "ChatGPT",
+        avatar: "/images/friends/gpt.webp",
         link: "https://chat.openai.com/",
       },
       {
