@@ -18,6 +18,9 @@ const rssOptions: RSSOptions = {
 const teekConfig = defineTeekConfig({
   teekTheme: true,
   teekHome: true,
+  banner: {
+    enabled: false,
+  },
   pageStyle: "segment-nav",
 
   bodyBgImg: {
