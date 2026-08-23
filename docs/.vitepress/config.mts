@@ -61,6 +61,21 @@ const teekConfig = defineTeekConfig({
     homeTitle: "热门标签",
   },
 
+  friendLink: {
+    enabled: true,
+    title: "🔗 常用链接",
+    list: [
+      {
+        name: "OpenAI ChatGPT",
+        desc: "OpenAI ChatGPT",
+        avatar: "/images/friends/friend.webp",
+        link: "https://chat.openai.com/",
+      },
+    ],
+    limit: 5,
+    autoScroll: false,
+  },
+
   articleUpdate: {
     enabled: true,
     limit: 5,
