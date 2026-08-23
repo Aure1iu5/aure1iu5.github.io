@@ -120,3 +120,18 @@ body {
 .tk-banner-content__title {
   display: none;
 }
+/* 首页底部页脚透明 */
+.VPFooter,
+.tk-footer-info {
+  background: transparent !important;
+  border-top: none !important;
+}
+.tk-banner-content {
+  padding-top: 0;
+}
+/* 防止透明后文字与背景混在一起 */
+.VPFooter .message,
+.VPFooter .copyright,
+.tk-footer-info {
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.8);
+}
