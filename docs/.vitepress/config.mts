@@ -53,6 +53,15 @@ const teekConfig = defineTeekConfig({
     enabled: true,
     limit: 5,
   },
+  comment: {
+  provider: "giscus",
+  options: {
+    repo: "Aure1iu5/aure1iu5.github.io",
+    repoId: "R_kgDOUBTcFA",
+    category: "Announcements",
+    categoryId: "DIC_kwDOUBTcFM4DEADS",
+    },
+  },
 });
 
 export default defineConfig({
