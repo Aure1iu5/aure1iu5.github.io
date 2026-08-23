@@ -17,7 +17,7 @@ coverImg: /images/posts/1.jpg
 
 <!-- more -->
 
-![](images/posts/2.jpg)
-![](images/posts/3.jpg)
-![](images/posts/4.jpg)
-![](images/posts/5.jpg)
+![](/images/posts/2.jpg)
+![](/images/posts/3.jpg)
+![](/images/posts/4.jpg)
+![](/images/posts/5.jpg)
