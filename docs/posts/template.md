@@ -7,7 +7,6 @@ categories:
 tags:
   - 标签一
   - 标签二
-comment: true
 publish: true
 # 可选：将封面放在 docs/public/images/posts/ 后再取消下一行注释
 # coverImg: /images/posts/your-cover.png
