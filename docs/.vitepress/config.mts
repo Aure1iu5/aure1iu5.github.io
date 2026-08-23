@@ -70,11 +70,6 @@ const teekConfig = defineTeekConfig({
         avatar: "/images/friends/gpt.webp",
         link: "https://chat.openai.com/",
       },
-      {
-        name: "Hugging Face",
-        avatar: "/images/friends/hf.webp",
-        link: "https://huggingface.co/",
-      },
     ],
     limit: 5,
     autoScroll: false,
