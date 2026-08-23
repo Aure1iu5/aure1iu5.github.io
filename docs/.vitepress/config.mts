@@ -20,7 +20,7 @@ const teekConfig = defineTeekConfig({
   teekHome: true,
 
   bodyBgImg: {
-    imgSrc: "/images/background.webb",
+    imgSrc: "/images/background.webp",
     imgOpacity: 1,
     mask: true,
     maskBg: "rgba(0, 0, 0, 0.15)",
