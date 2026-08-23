@@ -6,4 +6,5 @@ layout: page
 article: false
 sidebar: false
 publish: false
+docAnalysis: false
 ---

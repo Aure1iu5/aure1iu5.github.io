@@ -3,6 +3,7 @@ title: 关于
 article: false
 comment: false
 publish: false
+docAnalysis: false
 ---
 
 # 关于我
