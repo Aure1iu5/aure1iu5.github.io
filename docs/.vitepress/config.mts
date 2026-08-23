@@ -63,11 +63,10 @@ const teekConfig = defineTeekConfig({
 
   friendLink: {
     enabled: true,
-    title: "🔗 常用链接",
+    title: "常用链接",
     list: [
       {
         name: "OpenAI ChatGPT",
-        desc: "OpenAI ChatGPT",
         avatar: "/images/friends/friend.webp",
         link: "https://chat.openai.com/",
       },
