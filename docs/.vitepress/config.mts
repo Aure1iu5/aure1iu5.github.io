@@ -24,7 +24,7 @@ const teekConfig = defineTeekConfig({
     imgSrc: "/images/background.webp",
     imgOpacity: 1,
     mask: true,
-    maskBg: "rgba(0, 0, 0, 0.15)",
+    maskBg: "rgba(0, 0, 0, 0.30)",
     bannerStyle: "part",
   },
 

@@ -8,6 +8,7 @@ tags:
   - VitePress
   - Blog
 publish: true
+sidebar: false
 ---
 
 <!-- more -->

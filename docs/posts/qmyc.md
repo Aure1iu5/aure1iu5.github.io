@@ -7,6 +7,7 @@ categories:
 tags:
   - BanGDream
 publish: true
+sidebar: false
 # 可选：将封面放在 docs/public/images/posts/ 后再取消下一行注释
 coverImg: /images/posts/1.jpg
 ---
