@@ -16,8 +16,19 @@ coverImg: /images/posts/1.jpg
 测试一下图片功能
 
 <!-- more -->
-
-![](/images/posts/2.jpg)
-![](/images/posts/3.jpg)
-![](/images/posts/4.jpg)
-![](/images/posts/5.jpg)
+<img
+  src="/images/posts/2.jpg"
+  style="width: 100%; max-width: 600px; height: auto; display: block; margin: 0 auto;"
+>
+<img
+  src="/images/posts/3.jpg"
+  style="width: 100%; max-width: 600px; height: auto; display: block; margin: 0 auto;"
+>
+<img
+  src="/images/posts/4.jpg"
+  style="width: 100%; max-width: 600px; height: auto; display: block; margin: 0 auto;"
+>
+<img
+  src="/images/posts/5.jpg"
+  style="width: 100%; max-width: 600px; height: auto; display: block; margin: 0 auto;"
+>
